@@ -41,10 +41,9 @@ sentinel-dash/
 | Making UI look professional | Used glass-morphism effect |
 | Password hashing security | Werkzeug security module |
   
-### 5. Screenshots
-- [ ]Landing page screenshot
-      
-- [ ] Login page screenshot
+### 5. Screenshots : something went wrong as they cant process the file
+- [ ] Landing page screenshot 
+- [ ] Login page screenshot      
 - [ ] Register page screenshot
 
 ### 6. Commands Used Today
